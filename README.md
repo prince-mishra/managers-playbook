@@ -1,16 +1,16 @@
-[principles]: https://github.com/ksindi/managers-playbook/blob/master/README.md#principles
-[one-on-ones]: https://github.com/ksindi/managers-playbook/blob/master/README.md#one-on-ones
-[coaching]: https://github.com/ksindi/managers-playbook/blob/master/README.md#coaching
-[feedback]: https://github.com/ksindi/managers-playbook/blob/master/README.md#feedback
-[thinking-strategically]: https://github.com/ksindi/managers-playbook/blob/master/README.md#thinking-strategically
-[making-decisions]: https://github.com/ksindi/managers-playbook/blob/master/README.md#making-decisions
-[coding]: https://github.com/ksindi/managers-playbook/blob/master/README.md#coding
-[ticket-and-pr-process]: https://github.com/ksindi/managers-playbook/blob/master/README.md#ticket-and-pr-process
-[meetings]: https://github.com/ksindi/managers-playbook/blob/master/README.md#meetings
-[hiring]: https://github.com/ksindi/managers-playbook/blob/master/README.md#hiring
-[onboarding]: https://github.com/ksindi/managers-playbook/blob/master/README.md#onboarding
-[announcing-change]: https://github.com/ksindi/managers-playbook/blob/master/README.md#announcing-change
-[further-reading]: https://github.com/ksindi/managers-playbook/blob/master/README.md#further-reading
+[principles]: #principles
+[one-on-ones]: #one-on-ones
+[coaching]: #coaching
+[feedback]: #feedback
+[thinking-strategically]: #thinking-strategically
+[making-decisions]: #making-decisions
+[coding]: #coding
+[ticket-and-pr-process]: #ticket-and-pr-process
+[meetings]: #meetings
+[hiring]: #hiring
+[onboarding]: #onboarding
+[announcing-change]: #announcing-change
+[further-reading]: #further-reading
 
 # Manager's Playbook
 
@@ -53,7 +53,7 @@ Heuristics for effective management.
 
 ## One on ones
 
-1. Never skip one on ones. It's the best platform for receiving and giving feedback. Most teammates value it and usually when they don't it's because they haven't seen one conducted well.
+1. Never skip one on ones. It's the best platform for receiving and giving feedback. Most teammates value it and usually when they don't, it's because they haven't seen one conducted well.
 1. Aim for weekly one on ones.
 1. Focus on 5 topics:
     - Predictability: create routine, set expectations, normalize change.
@@ -137,7 +137,7 @@ Heuristics for effective management.
     - "What are our action items?"
 1. Highlight positive patterns (remember to be specific).
     - "I like when you take initiative in cleaning up code because it shows initiative and ownership."
-    - "It's great to see you teach X about Y so that they're. That's a positive trait of a senior engineer."
+    - "It's great to see you teach X about Y. That's a positive trait of a senior engineer."
 1. Replay instinctive reactions to help frame the conversation:  
     <img src="images/replay-instinctive-reactions.png" width="400">
 
@@ -189,8 +189,8 @@ Avoid coding in the critical path. [Tips](https://charity.wtf/2019/01/04/enginee
 
 ## Ticket and PR process
 
-1. Set contributing guidelines for the team.
-1. PRs should always be prioritized. Aim for review SLA of 1 hour.
+1. Set contributing guidelines, including Code Review guidelines for the team.
+1. PRs should always be prioritized. Aim for review SLA of T+2 day.
 1. Automate opinions like style with linting or code formatters like [black](https://github.com/ambv/black).
 
 
